@@ -57,7 +57,7 @@ body{
     width: 150px;
     float: right;
     height: auto;
-    margin-top: 895px;
+    margin-top: 125px;
     margin-right: 1000px;
     border: solid black 1px;
     border-radius: 15px;
@@ -67,7 +67,7 @@ body{
     width: 1100px;
     height: 200px;
     color: white;
-    margin-top: 980px;
+    margin-top: 100px;
     margin-left: 280px;
     font-size: 20px;
     background-color: rgba(255, 255, 255, 0.219);
@@ -80,6 +80,7 @@ body{
 .welcomegif img{
     margin-left: 350px;
     margin-top: 600px;
+    
 }
 
 .vs img{
@@ -118,8 +119,8 @@ footer{
     height: 10px;
     color: black;
     text-align: center;
-    margin-top: 200px;
     padding: 30px;
+    margin-top: -1200px;
 }
 
 /** 
